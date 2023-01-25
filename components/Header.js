@@ -7,7 +7,7 @@ export default function Header({ name }) {
       <div className="w-12 h-12">
         <Image
           src="../assets/galaxy_logo.png"
-          alt="Picture of the author"
+          alt="Company logo"
           width={500}
           height={500}
         />
