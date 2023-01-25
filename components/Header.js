@@ -6,7 +6,7 @@ export default function Header({ name }) {
     <header className="pt-20 pb-12">
       <div className="w-12 h-12">
         <Image
-          src="../assets/galaxy_logo.png"
+          src="assets/galaxy_logo.png"
           alt="Company logo"
           width={500}
           height={500}
